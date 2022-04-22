@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on open source machine learning projects
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 3 languages ( English, Kannda, Hindi)
+- ⚡ Fun fact: Got a lot of Dark humor!
 
 
