@@ -4,10 +4,10 @@
 
 
 ## I'm a Student, Developer and  Creator!!
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m currently working on my start up.
+- 🌱 I’m currently learning quantum computing
 - 👯 I’m looking to collaborate on open source machine learning projects
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ? you can take a guess i dont mind 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Got a lot of Dark humor!
 
