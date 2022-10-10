@@ -5,8 +5,9 @@
 
 ## I'm a Student, Developer and  Creator!!
 - 🔭 I’m currently working on my start up cheatz.
+- 🙇 workign on fire fighting robot and ADAS system 
 - 🌱 I’m currently learning robot studio
-- 👯 I’m looking to collaborate on open source machine learning ,front end application .... so much more 
+- 👯 I’m looking to collaborate on open source machine learning ,front end application, intraday trading ,hackatons & startup ideas.... so much more 
 - 💬 Ask me about ? you can take a guess i dont mind 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Got a lot of Dark humor!
